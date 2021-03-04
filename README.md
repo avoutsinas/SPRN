@@ -1,2 +1,2 @@
 # SPRN
-Reverse polish notation calculator in Python
+A Saturated Reverse Polish Notation calculator in Python
